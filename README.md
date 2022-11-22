@@ -28,9 +28,9 @@ See ```requirements.txt``` file.
 
 There are a few Jupyter notebooks to demonstrate how to work with data and train/evaluate models.
 
-- Regression example + tercile classification of temperature [example](?)
-    - Regression with U-Net + tercile classification of temperature [example](?)
-- Model stacking [example](?)
-- Tercile classification of temperature [example](?)
+- Regression example + tercile classification of temperature [example](https://github.com/elena-orlova/SSF_project/tree/master/regression&tercile_classification/regression_baselines_RF_tercile_tmp.ipynb)
+    - Regression with U-Net + tercile classification of temperature [example](https://github.com/elena-orlova/SSF_project/tree/master/regression&tercile_classification/regression_UNET_tercile_tmp.ipynb)
+- Model stacking [example](https://github.com/elena-orlova/SSF_project/tree/master/regression&tercile_classification/stacking_models.ipynb)
+- Tercile classification of temperature [example](https://github.com/elena-orlova/SSF_project/tree/master/regression&tercile_classification/tercile_classification_precip.ipynb)
 <!-- - Quantile regression [example](?) -->
 
