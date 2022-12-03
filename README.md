@@ -1,15 +1,11 @@
 # Beyond Ensemble Averages: Leveraging Climate Model Ensembles for Subseasonal Forecasting
 
-A supplementary code for [the paper](?).
-If you use our code/data/models in your research, we kindly ask you to cite our work:
-```
-@article{?
-}
-```
+A supplementary code for [the paper](https://arxiv.org/abs/2211.15856).
+
 
 ## Data 
 
-Data used for the experiments can be found [here](https://uchicago.box.com/s/xzv588kzyywykdfmsucwntpnd06zf79w). It includes NCEP-NSCv2 and NASA-GMAO ensemble members, ground truth data -- precipitation and 2 meter temperature, obseravtional data: slp, rhum, hgt500; and principal components of SSTs. There are also files with the US mask, an observational climatology, a model climatology and the 33rd and 66th percentile values.
+Data used for the experiments can be found [here](https://uchicago.box.com/s/xzv588kzyywykdfmsucwntpnd06zf79w). It includes NCEP-NSCv2 and NASA-GMAO ensemble members, the ground truth data -- precipitation and 2 meter temperature, observational data: slp, rhum, hgt500; and principal components of SSTs. There are also files with the US mask, an observational climatology, a model climatology and the 33rd and 66th percentile values.
 
 All data was preprocessed: the ensemble members, the ground truth and the climate data are on the same grid. There are two directories:
 
